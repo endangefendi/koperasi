@@ -1,8 +1,10 @@
-package com.smarta.koperasi;
+package com.smarta.koperasi.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.smarta.koperasi.R;
 
 public class MainActivity extends AppCompatActivity {
 
